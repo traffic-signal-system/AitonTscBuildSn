@@ -1,0 +1,11 @@
+﻿<Window x:Class="AitonTscBuildSn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtIP" HorizontalAlignment="Left" Height="23" Margin="145,50,0,0" TextWrapping="Wrap" Text="192.168.0.35" VerticalAlignment="Top" Width="120"/>
+        <Button Content="生成序列号" HorizontalAlignment="Left" Margin="145,127,0,0" VerticalAlignment="Top" Width="126" Height="51" Click="Button_Click"/>
+        <Label Content="信号机IP地址：" HorizontalAlignment="Left" Margin="31,48,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

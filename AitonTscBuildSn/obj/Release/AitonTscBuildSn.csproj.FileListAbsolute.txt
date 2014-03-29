@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\bin\Release\AitonTscBuildSn.exe.config
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\bin\Release\AitonTscBuildSn.exe
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\bin\Release\AitonTscBuildSn.pdb
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\AitonTscBuildSn.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\MainWindow.baml
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\MainWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\AitonTscBuildSn_MarkupCompile.cache
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\AitonTscBuildSn.g.resources
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\AitonTscBuildSn.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\AitonTscBuildSn.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\AitonTscBuildSn.exe
+D:\Documents\Visual Studio 2013\Projects\AitonTscBuildSn\AitonTscBuildSn\obj\Release\AitonTscBuildSn.pdb
